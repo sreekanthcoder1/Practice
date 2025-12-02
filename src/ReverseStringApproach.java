@@ -1,6 +1,6 @@
 public class ReverseStringApproach {
     public static void main(String[] args) {
-        String str = "hello sri";
+        String str = "OpenAI creates amazing AI models";
         char[] ch = str.toCharArray();
         reverse(ch, 0, ch.length - 1);
 
